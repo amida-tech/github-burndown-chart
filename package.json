@@ -39,7 +39,7 @@
         "scrum"
     ],
     "author": "Radek <dev@radekstepan.com>",
-    "license": "BSD",
+    "license": "Apache-2.0",
     "bugs": {
         "url": "https://github.com/radekstepan/github-burndown-chart/issues"
     }
